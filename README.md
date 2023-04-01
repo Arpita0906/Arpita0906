@@ -4,11 +4,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubynarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Arpita0906" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arpita0906&label=Profile%20views&color=0e75b6&style=flat" alt="Arpita0906" /> </p>
 
 - 💎 Check out my <a href="" target="_blank" >Resume</a>
  
-- 🌱 I’m currently learning **Python*
+- 🌱 I’m currently learning **Python**
 
 - 👩Individual Project [Insurance Cost Predictor](https://github.com/Arpita0906/Medical_insurance_cost_predictor)
 
