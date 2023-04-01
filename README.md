@@ -28,7 +28,7 @@
 ## 🚀 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,flask,cpp,c,git,eclipse,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,py,flask,cpp,c,git,eclipse,vscode)](https://skillicons.dev)
 
 <br>
 
