@@ -10,9 +10,9 @@
  
 - 🌱 I’m currently learning **Python**
 
-- 👩Individual Project [Insurance Cost Predictor](https://github.com/Arpita0906/Medical_insurance_cost_predictor)
+- 👩 Individual Project [Insurance Cost Predictor](https://github.com/Arpita0906/Medical_insurance_cost_predictor)
 
-- 🤝 Group Project [Expedia](https://github.com/Shishir-1995/Expedia.git)
+- 🤝 Frontend Project [Time Sheet Calculator](https://github.com/Arpita0906/Time-Sheet-Calculator)
 
 - 📫 How to reach me **sahaarpita750@gmail.com**
 
